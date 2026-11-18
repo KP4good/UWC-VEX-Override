@@ -8,7 +8,7 @@
 #include <cstring>
 
 #include "vex.h"
-#include "C++ Style.h"
+#include "robotic_config.h"
 
 using namespace vex;
 
